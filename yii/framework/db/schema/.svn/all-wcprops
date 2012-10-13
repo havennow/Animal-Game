@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3515/trunk/framework/db/schema
+END
+CDbSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3515/trunk/framework/db/schema/CDbSchema.php
+END
+CDbCriteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3515/trunk/framework/db/schema/CDbCriteria.php
+END
+CDbCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3515/trunk/framework/db/schema/CDbCommandBuilder.php
+END
+CDbTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3426/trunk/framework/db/schema/CDbTableSchema.php
+END
+CDbColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3099/trunk/framework/db/schema/CDbColumnSchema.php
+END
+CDbExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3515/trunk/framework/db/schema/CDbExpression.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3515/trunk/framework/db/schema/mssql
+END
+CMssqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3515/trunk/framework/db/schema/mssql/CMssqlTableSchema.php
+END
+CMssqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3515/trunk/framework/db/schema/mssql/CMssqlColumnSchema.php
+END
+CMssqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3515/trunk/framework/db/schema/mssql/CMssqlSchema.php
+END
+CMssqlPdoAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3515/trunk/framework/db/schema/mssql/CMssqlPdoAdapter.php
+END
+CMssqlCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3515/trunk/framework/db/schema/mssql/CMssqlCommandBuilder.php
+END

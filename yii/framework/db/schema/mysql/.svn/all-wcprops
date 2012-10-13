@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3515/trunk/framework/db/schema/mysql
+END
+CMysqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3515/trunk/framework/db/schema/mysql/CMysqlSchema.php
+END
+CMysqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2799/trunk/framework/db/schema/mysql/CMysqlTableSchema.php
+END
+CMysqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3204/trunk/framework/db/schema/mysql/CMysqlColumnSchema.php
+END

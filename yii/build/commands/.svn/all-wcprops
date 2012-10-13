@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3526/trunk/build/commands
+END
+CheckBomCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3524/trunk/build/commands/CheckBomCommand.php
+END
+GuideLatexCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/677/trunk/build/commands/GuideLatexCommand.php
+END
+LiteCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2800/trunk/build/commands/LiteCommand.php
+END
+BlogLatexCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/677/trunk/build/commands/BlogLatexCommand.php
+END
+CldrCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3503/trunk/build/commands/CldrCommand.php
+END
+AutoloadCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2800/trunk/build/commands/AutoloadCommand.php
+END
+ApiCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2942/trunk/build/commands/ApiCommand.php
+END

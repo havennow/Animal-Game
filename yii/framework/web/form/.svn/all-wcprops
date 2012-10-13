@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3426/trunk/framework/web/form
+END
+CFormElementCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3054/trunk/framework/web/form/CFormElementCollection.php
+END
+CFormButtonElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3426/trunk/framework/web/form/CFormButtonElement.php
+END
+CFormInputElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3426/trunk/framework/web/form/CFormInputElement.php
+END
+CFormElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3426/trunk/framework/web/form/CFormElement.php
+END
+CForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3426/trunk/framework/web/form/CForm.php
+END
+CFormStringElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3426/trunk/framework/web/form/CFormStringElement.php
+END

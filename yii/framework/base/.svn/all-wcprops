@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3540/trunk/framework/base
+END
+CApplicationComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3515/trunk/framework/base/CApplicationComponent.php
+END
+CErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3540/trunk/framework/base/CErrorHandler.php
+END
+CErrorEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2799/trunk/framework/base/CErrorEvent.php
+END
+CHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2799/trunk/framework/base/CHttpException.php
+END
+CException.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2799/trunk/framework/base/CException.php
+END
+CBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3515/trunk/framework/base/CBehavior.php
+END
+CExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2799/trunk/framework/base/CExceptionEvent.php
+END
+CModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3515/trunk/framework/base/CModel.php
+END
+CSecurityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3426/trunk/framework/base/CSecurityManager.php
+END
+CModelEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2799/trunk/framework/base/CModelEvent.php
+END
+CComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3521/trunk/framework/base/CComponent.php
+END
+CApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3515/trunk/framework/base/CApplication.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3515/trunk/framework/base/interfaces.php
+END
+CModelBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3515/trunk/framework/base/CModelBehavior.php
+END
+CStatePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3515/trunk/framework/base/CStatePersister.php
+END
+CModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3515/trunk/framework/base/CModule.php
+END

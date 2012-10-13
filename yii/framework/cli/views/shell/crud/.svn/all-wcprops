@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2209/trunk/framework/cli/views/shell/crud
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1620/trunk/framework/cli/views/shell/crud/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2061/trunk/framework/cli/views/shell/crud/view.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1618/trunk/framework/cli/views/shell/crud/test.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1731/trunk/framework/cli/views/shell/crud/update.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1750/trunk/framework/cli/views/shell/crud/_form.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1731/trunk/framework/cli/views/shell/crud/create.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2209/trunk/framework/cli/views/shell/crud/controller.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1750/trunk/framework/cli/views/shell/crud/_search.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1731/trunk/framework/cli/views/shell/crud/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1791/trunk/framework/cli/views/shell/crud/admin.php
+END

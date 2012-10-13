@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3452/trunk/tests/framework/db/ar
+END
+CActiveRecordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3452/trunk/tests/framework/db/ar/CActiveRecordTest.php
+END
+CActiveRecord2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2972/trunk/tests/framework/db/ar/CActiveRecord2Test.php
+END
+CActiveRecordEventWrappersTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2972/trunk/tests/framework/db/ar/CActiveRecordEventWrappersTest.php
+END

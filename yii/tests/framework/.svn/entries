@@ -1,0 +1,52 @@
+10
+
+dir
+3542
+http://yii.googlecode.com/svn/trunk/tests/framework
+http://yii.googlecode.com/svn
+
+
+
+2011-11-21T02:13:03.908468Z
+3458
+alexander.makarow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7f931c7-7552-0410-b027-2fb3d89d9100
+
+i18n
+dir
+
+utils
+dir
+
+db
+dir
+
+validators
+dir
+
+base
+dir
+
+caching
+dir
+
+web
+dir
+
+collections
+dir
+

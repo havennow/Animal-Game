@@ -1,0 +1,77 @@
+10
+
+dir
+3542
+http://yii.googlecode.com/svn/trunk/framework/cli/views/shell/module
+http://yii.googlecode.com/svn
+
+
+
+2011-06-15T14:21:12.844054Z
+3276
+alexander.makarow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7f931c7-7552-0410-b027-2fb3d89d9100
+
+models
+dir
+
+components
+dir
+
+controllers
+dir
+
+messages
+dir
+
+module.php
+file
+
+
+
+
+2012-01-17T20:50:43.000000Z
+a97ef89d8542a49d40a950fd89bd1b5c
+2011-06-15T14:21:12.844054Z
+3276
+alexander.makarow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+707
+
+views
+dir
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3518/trunk/framework/collections
+END
+CConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3458/trunk/framework/collections/CConfiguration.php
+END
+CMapIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3186/trunk/framework/collections/CMapIterator.php
+END
+CList.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3430/trunk/framework/collections/CList.php
+END
+CMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3518/trunk/framework/collections/CMap.php
+END
+CQueueIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2799/trunk/framework/collections/CQueueIterator.php
+END
+CAttributeCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3515/trunk/framework/collections/CAttributeCollection.php
+END
+CStackIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2799/trunk/framework/collections/CStackIterator.php
+END
+CTypedList.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3001/trunk/framework/collections/CTypedList.php
+END
+CTypedMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3001/trunk/framework/collections/CTypedMap.php
+END
+CQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3427/trunk/framework/collections/CQueue.php
+END
+CStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3427/trunk/framework/collections/CStack.php
+END
+CListIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2799/trunk/framework/collections/CListIterator.php
+END

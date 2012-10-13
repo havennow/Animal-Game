@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/3458/trunk/tests
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3149/trunk/tests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2972/trunk/tests/phpunit.xml
+END
+TestApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2972/trunk/tests/TestApplication.php
+END
+rununit.bat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2972/trunk/tests/rununit.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2997/trunk/tests/readme.txt
+END

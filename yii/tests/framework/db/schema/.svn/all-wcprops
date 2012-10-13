@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3454/trunk/tests/framework/db/schema
+END
+CPostgresTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2972/trunk/tests/framework/db/schema/CPostgresTest.php
+END
+sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2972/trunk/tests/framework/db/schema/sqlite.sql
+END
+CMysql2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3454/trunk/tests/framework/db/schema/CMysql2Test.php
+END
+CDbCriteriaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2977/trunk/tests/framework/db/schema/CDbCriteriaTest.php
+END
+CPostgres2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2972/trunk/tests/framework/db/schema/CPostgres2Test.php
+END
+CMssqlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2972/trunk/tests/framework/db/schema/CMssqlTest.php
+END
+CSqliteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2972/trunk/tests/framework/db/schema/CSqliteTest.php
+END
+CMysqlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2972/trunk/tests/framework/db/schema/CMysqlTest.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3458/trunk/tests/framework/collections
+END
+CConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3458/trunk/tests/framework/collections/CConfigurationTest.php
+END
+CListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3186/trunk/tests/framework/collections/CListTest.php
+END
+CMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3186/trunk/tests/framework/collections/CMapTest.php
+END
+CAttributeCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2972/trunk/tests/framework/collections/CAttributeCollectionTest.php
+END
+CTypedListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2972/trunk/tests/framework/collections/CTypedListTest.php
+END
+CQueueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2972/trunk/tests/framework/collections/CQueueTest.php
+END
+CStackTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2972/trunk/tests/framework/collections/CStackTest.php
+END

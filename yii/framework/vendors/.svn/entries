@@ -1,0 +1,92 @@
+10
+
+dir
+3542
+http://yii.googlecode.com/svn/trunk/framework/vendors
+http://yii.googlecode.com/svn
+
+
+
+2012-01-12T14:45:28.480858Z
+3537
+mdomba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7f931c7-7552-0410-b027-2fb3d89d9100
+
+jquery
+dir
+
+README.html
+file
+
+
+
+
+2012-01-17T20:50:35.000000Z
+5cd405d6e508800be75969ebe3d144f0
+2012-01-12T14:45:28.480858Z
+3537
+mdomba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3608
+
+markdown
+dir
+
+TextHighlighter
+dir
+
+cldr
+dir
+
+bbq
+dir
+
+gettext
+dir
+
+json
+dir
+
+adodb
+dir
+
+htmlpurifier
+dir
+
+jqueryui
+dir
+

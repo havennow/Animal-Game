@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3457/trunk/tests/framework/web
+END
+CSortTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3451/trunk/tests/framework/web/CSortTest.php
+END
+CAssetManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2972/trunk/tests/framework/web/CAssetManagerTest.php
+END
+CUrlManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2972/trunk/tests/framework/web/CUrlManagerTest.php
+END
+CSortTest.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2972/trunk/tests/framework/web/CSortTest.sql
+END
+CControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3457/trunk/tests/framework/web/CControllerTest.php
+END

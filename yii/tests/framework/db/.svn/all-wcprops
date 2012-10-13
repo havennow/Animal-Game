@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3454/trunk/tests/framework/db
+END
+CDbCommand2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2972/trunk/tests/framework/db/CDbCommand2Test.php
+END
+CDbTransactionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2972/trunk/tests/framework/db/CDbTransactionTest.php
+END
+CDbDataReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2972/trunk/tests/framework/db/CDbDataReaderTest.php
+END
+CDbCommandTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2972/trunk/tests/framework/db/CDbCommandTest.php
+END
+CDbConnectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3069/trunk/tests/framework/db/CDbConnectionTest.php
+END

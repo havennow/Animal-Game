@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3515/trunk/framework/db/schema/pgsql
+END
+CPgsqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3515/trunk/framework/db/schema/pgsql/CPgsqlSchema.php
+END
+CPgsqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2799/trunk/framework/db/schema/pgsql/CPgsqlTableSchema.php
+END
+CPgsqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2799/trunk/framework/db/schema/pgsql/CPgsqlColumnSchema.php
+END

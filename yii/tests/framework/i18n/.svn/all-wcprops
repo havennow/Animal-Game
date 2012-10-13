@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3455/trunk/tests/framework/i18n
+END
+YiiTTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3455/trunk/tests/framework/i18n/YiiTTest.php
+END
+CNumberFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2972/trunk/tests/framework/i18n/CNumberFormatterTest.php
+END
+CLocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2972/trunk/tests/framework/i18n/CLocaleTest.php
+END
+CDateFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3452/trunk/tests/framework/i18n/CDateFormatterTest.php
+END

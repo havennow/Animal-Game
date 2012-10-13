@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3453/trunk/tests/framework/db/data
+END
+sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3453/trunk/tests/framework/db/data/sqlite.sql
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2972/trunk/tests/framework/db/data/mysql.sql
+END
+postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2972/trunk/tests/framework/db/data/postgres.sql
+END
+models.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3415/trunk/tests/framework/db/data/models.php
+END
+models2.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2972/trunk/tests/framework/db/data/models2.php
+END
+mssql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2972/trunk/tests/framework/db/data/mssql.sql
+END

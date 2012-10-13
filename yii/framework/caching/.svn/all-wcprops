@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3515/trunk/framework/caching
+END
+CApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3515/trunk/framework/caching/CApcCache.php
+END
+CDbCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3515/trunk/framework/caching/CDbCache.php
+END
+CXCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3515/trunk/framework/caching/CXCache.php
+END
+CEAcceleratorCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3515/trunk/framework/caching/CEAcceleratorCache.php
+END
+CZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3515/trunk/framework/caching/CZendDataCache.php
+END
+CDummyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3515/trunk/framework/caching/CDummyCache.php
+END
+CWinCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2799/trunk/framework/caching/CWinCache.php
+END
+CMemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3515/trunk/framework/caching/CMemCache.php
+END
+CFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3515/trunk/framework/caching/CFileCache.php
+END
+CCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3515/trunk/framework/caching/CCache.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3288/trunk/tests/framework/validators
+END
+ModelMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3288/trunk/tests/framework/validators/ModelMock.php
+END
+CDefaultValueValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3288/trunk/tests/framework/validators/CDefaultValueValidatorTest.php
+END
+CCompareValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3288/trunk/tests/framework/validators/CCompareValidatorTest.php
+END
+CEmailValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3214/trunk/tests/framework/validators/CEmailValidatorTest.php
+END
+CDateValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3288/trunk/tests/framework/validators/CDateValidatorTest.php
+END
+ValidatorTestModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2972/trunk/tests/framework/validators/ValidatorTestModel.php
+END
+CValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3288/trunk/tests/framework/validators/CValidatorTest.php
+END
+CBooleanValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3288/trunk/tests/framework/validators/CBooleanValidatorTest.php
+END
